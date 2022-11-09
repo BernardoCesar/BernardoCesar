@@ -1,4 +1,4 @@
-<h2> Welcome!</h2>
+<h2> Welcome! (☞ﾟヮﾟ)☞</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BernardoCesar.BernardoCesar)](https://github.com/BernardoCesar) [![GitHub followers](https://img.shields.io/github/followers/BernardoCesar.svg?style=social&label=Follow)](https://github.com/BernardoCesar?tab=followers)
 
