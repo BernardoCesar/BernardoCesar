@@ -4,7 +4,7 @@
 
 - Information Systems student at Escola Superior de Propaganda e Marketing (ESPM)!
 - I am interested in back-end development and data engineering.
-- Here you can find some of tests, group projects and assingments. 
+- Here you can find some of tests, group projects and assignments. 
 - I have already used Java, Python, Springboot, Javascript, among others. 
 - Mail me! [bernardocesar2002@gmail.com](mailto:bernardocesar2002@gmail.com)
 
