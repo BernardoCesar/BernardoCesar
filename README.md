@@ -1,12 +1,10 @@
-<h2> Bem vindo ao meu perfil! 🤠 </h2>
+<h2> Welcome!</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BernardoCesar.BernardoCesar)](https://github.com/BernardoCesar) [![GitHub followers](https://img.shields.io/github/followers/BernardoCesar.svg?style=social&label=Follow)](https://github.com/BernardoCesar?tab=followers)
 
-Me chamo Bernardo Cesar, prazer! 
-
-- 👨‍💻 Pratico Java, Python, MySQL, entre outros!
-- 📚 Atualmente faço Sistemas de Informaçao na ESPM.
-- 📩 Fale comigo pelo email: [bernardocesar2002@gmail.com](mailto:bernardocesar2002@gmail.com)
+- Information Systems student at Escola Superior de Propaganda e Marketing (ESPM)!
+- I am interested in back-end development and data engineering.
+- Mail me! [bernardocesar2002@gmail.com](mailto:bernardocesar2002@gmail.com)
 
 <div>
   <a href="https://github.com/BernardoCesar">
