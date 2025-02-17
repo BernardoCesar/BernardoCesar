@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BernardoCesar.BernardoCesar)](https://github.com/BernardoCesar) [![GitHub followers](https://img.shields.io/github/followers/BernardoCesar.svg?style=social&label=Follow)](https://github.com/BernardoCesar?tab=followers)
 
-- Information Systems student at Escola Superior de Propaganda e Marketing (ESPM)!
+- Information Systems graduate at Escola Superior de Propaganda e Marketing (ESPM)!
 - I am interested in back-end, front-end, full stack development and data engineering.
 - Here you can find some of tests, group projects and assignments. 
 - I have already used Java, Python, Springboot, Javascript, among others. 
